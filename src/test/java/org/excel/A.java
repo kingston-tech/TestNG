@@ -22,6 +22,11 @@ public class A extends BaseClass{
 		BrowserLaunch("chrome");
 		urlLaunch("https://greens.com");
 		System.out.println("excel done");
+		
+		driver.navigate().refresh();
+		System.out.println("ok done");
+		BrowserLaunch("chrome");
+		
 
 	}
 	

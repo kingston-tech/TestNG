@@ -16,12 +16,17 @@ public class A extends BaseClass{
 	
 	
 	@Test
-	private void testA1() throws IOException {
+	private void testA1() throws IOException, InterruptedException {
 		String g = getExcelData("king", "facebook", 1, 0);
 		System.out.println(g);
 		BrowserLaunch("chrome");
 		urlLaunch("https://greens.com");
 		System.out.println("excel done");
+		
+		
+		A D=new A();
+		D.wait();
+		System.out.println(D);
 
 	}
 	

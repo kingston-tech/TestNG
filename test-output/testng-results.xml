@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="73311" started-at="2022-06-03T04:16:08Z" finished-at="2022-06-03T04:17:22Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="73311" started-at="2022-06-03T04:16:08Z" finished-at="2022-06-03T04:17:22Z">
+      <class name="org.excel.ExcelClass">
+        <test-method status="PASS" signature="BeforeClass()[pri:0, instance:org.excel.ExcelClass@146ba0ac]" name="BeforeClass" is-config="true" duration-ms="32" started-at="2022-06-03T09:46:08Z" finished-at="2022-06-03T09:46:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:org.excel.ExcelClass@146ba0ac]" name="BeforeMethod" is-config="true" duration-ms="6230" started-at="2022-06-03T09:46:08Z" finished-at="2022-06-03T09:46:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="Test3()[pri:-1, instance:org.excel.ExcelClass@146ba0ac]" name="Test3" duration-ms="5835" started-at="2022-06-03T09:46:15Z" finished-at="2022-06-03T09:46:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:org.excel.ExcelClass@146ba0ac]" name="AfterMethod" is-config="true" duration-ms="1163" started-at="2022-06-03T09:46:20Z" finished-at="2022-06-03T09:46:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:org.excel.ExcelClass@146ba0ac]" name="BeforeMethod" is-config="true" duration-ms="2636" started-at="2022-06-03T09:46:52Z" finished-at="2022-06-03T09:46:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:org.excel.ExcelClass@146ba0ac]" name="Test1" duration-ms="7594" started-at="2022-06-03T09:46:55Z" finished-at="2022-06-03T09:47:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:org.excel.ExcelClass@146ba0ac]" name="AfterMethod" is-config="true" duration-ms="1160" started-at="2022-06-03T09:47:02Z" finished-at="2022-06-03T09:47:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:org.excel.ExcelClass@146ba0ac]" name="BeforeMethod" is-config="true" duration-ms="2671" started-at="2022-06-03T09:47:10Z" finished-at="2022-06-03T09:47:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="Test2()[pri:1, instance:org.excel.ExcelClass@146ba0ac]" name="Test2" duration-ms="6850" started-at="2022-06-03T09:47:13Z" finished-at="2022-06-03T09:47:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:org.excel.ExcelClass@146ba0ac]" name="AfterMethod" is-config="true" duration-ms="2055" started-at="2022-06-03T09:47:20Z" finished-at="2022-06-03T09:47:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="AfterClass()[pri:0, instance:org.excel.ExcelClass@146ba0ac]" name="AfterClass" is-config="true" duration-ms="0" started-at="2022-06-03T09:47:22Z" finished-at="2022-06-03T09:47:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+      </class> <!-- org.excel.ExcelClass -->
+      <class name="org.excel.A">
+        <test-method status="PASS" signature="testA1()[pri:0, instance:org.excel.A@4dfa3a9d]" name="testA1" duration-ms="6481" started-at="2022-06-03T09:47:04Z" finished-at="2022-06-03T09:47:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testA1 -->
+      </class> <!-- org.excel.A -->
+      <class name="org.excel.adactinHotel">
+        <test-method status="PASS" signature="BeforeClass()[pri:0, instance:org.excel.adactinHotel@754ba872]" name="BeforeClass" is-config="true" duration-ms="2207" started-at="2022-06-03T09:46:22Z" finished-at="2022-06-03T09:46:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:org.excel.adactinHotel@754ba872]" name="Test" duration-ms="23954" started-at="2022-06-03T09:46:24Z" finished-at="2022-06-03T09:46:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:org.excel.adactinHotel@754ba872]" name="BeforeMethod" is-config="true" duration-ms="0" started-at="2022-06-03T09:46:24Z" finished-at="2022-06-03T09:46:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:org.excel.adactinHotel@754ba872]" name="AfterMethod" is-config="true" duration-ms="3" started-at="2022-06-03T09:46:48Z" finished-at="2022-06-03T09:46:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:org.excel.adactinHotel@754ba872]" name="Test2" duration-ms="2986" started-at="2022-06-03T09:46:48Z" finished-at="2022-06-03T09:46:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:org.excel.adactinHotel@754ba872]" name="BeforeMethod" is-config="true" duration-ms="0" started-at="2022-06-03T09:46:48Z" finished-at="2022-06-03T09:46:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:org.excel.adactinHotel@754ba872]" name="AfterMethod" is-config="true" duration-ms="4" started-at="2022-06-03T09:46:51Z" finished-at="2022-06-03T09:46:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="AfterClass()[pri:0, instance:org.excel.adactinHotel@754ba872]" name="AfterClass" is-config="true" duration-ms="1382" started-at="2022-06-03T09:46:51Z" finished-at="2022-06-03T09:46:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+      </class> <!-- org.excel.adactinHotel -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
